@@ -1,0 +1,19 @@
+{
+  "name": "vue-cli-first",
+  "version": "0.0.1",
+  "description": "esercizio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denis-92/vue-cli-first.git"
+  },
+  "author": "Denis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Denis-92/vue-cli-first/issues"
+  },
+  "homepage": "https://github.com/Denis-92/vue-cli-first#readme"
+}
